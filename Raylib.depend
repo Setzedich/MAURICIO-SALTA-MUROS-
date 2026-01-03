@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1741576988 source:c:\users\angel\onedrive\escritorio\raylib\main.c
+	"raylib.h"
+
+1731932470 c:\raylib\src\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1741576392 source:d:\programación para aplicaciones en ingeniería sem2\raylib\main.c
+	"raylib.h"
+
+1745035194 source:c:\users\angel\onedrive\escritorio\programación para aplicaciones en ingeniería semestre 2\raylib\mauricio sin fronteras\main.c
+	"raylib.h"
+
+1745038131 source:c:\users\angel\onedrive\documentos\asdas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1746478345 source:c:\users\marlon\desktop\mauricio sin fronteras\main.c
+	"raylib.h"
+
+1746681644 source:c:\users\angel\onedrive\escritorio\mauricio sin fronteras\main.c
+	"raylib.h"
+	<stdio.h>
+	<string.h>
+
+1746655699 source:d:\users\al240775\desktop\mauricio sin fronteras\main.c
+	"raylib.h"
+	<stdio.h>
+	<string.h>
+
+1731932470 d:\raylib\src\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1748418249 source:c:\users\angel\onedrive\escritorio\mauricio el salta muros\main.c
+	"raylib.h"
+	"raymath.h"
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1748491194 source:d:\semestre 2 ulsa\programación\mauricio el salta muros\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1748548534 source:c:\users\kabas\onedrive\escritorio\mauricio el salta muros\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1738954678 c:\raylib\src\raymath.h
+	<math.h>
+
+1748024572 source:e:\semestre 2 ulsa\programación\mauricio el salta muros\main.c
+	"raylib.h"
+	"raymath.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
+1731932470 d:\raylib\src\raymath.h
+	<math.h>
+
+1748553398 source:d:\users\al240775\desktop\mauricio el salta muros\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1748473134 source:f:\semestre 2 ulsa\programación\mauricio el salta muros\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1765487834 source:c:\users\kabas\downloads\mauricio el salta muros (2)\mauricio el salta muros\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1765487834 source:c:\users\marlon\desktop\mauricio el salta muros\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+

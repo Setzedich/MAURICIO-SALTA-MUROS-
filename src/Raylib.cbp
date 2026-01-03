@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Raylib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Raylib" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-std=c17" />
+					<Add option="-g" />
+					<Add directory="C:/raylib/src" />
+				</Compiler>
+				<Linker>
+					<Add directory="C:/raylib/lib/debug" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Raylib" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add directory="C:/raylib/lib/release" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="raylib" />
+			<Add library="opengl32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+		</Linker>
+		<Unit filename="alebrijeboss.png" />
+		<Unit filename="alebrijeboss2.png" />
+		<Unit filename="bellasartesnight.png" />
+		<Unit filename="block.jpg" />
+		<Unit filename="bucle.png" />
+		<Unit filename="chicheniztanight.png" />
+		<Unit filename="chicheniztanoon.png" />
+		<Unit filename="clock.png" />
+		<Unit filename="coin.png" />
+		<Unit filename="commerce_post.png" />
+		<Unit filename="crouch.png" />
+		<Unit filename="crouch2.png" />
+		<Unit filename="fire.png" />
+		<Unit filename="fire2.png" />
+		<Unit filename="golden_cacao.png" />
+		<Unit filename="horse.png" />
+		<Unit filename="horse2.png" />
+		<Unit filename="indigena_quieto_derecha.png" />
+		<Unit filename="indigena_quieto_izquierda.png" />
+		<Unit filename="jump_wall_huacal.png" />
+		<Unit filename="jumping.png" />
+		<Unit filename="jumping2.png" />
+		<Unit filename="level1_music.mp3" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mauricio.png" />
+		<Unit filename="mauricio2.png" />
+		<Unit filename="music.mp3" />
+		<Unit filename="poli_caminando_derecha.png" />
+		<Unit filename="poli_caminando_izquierda.png" />
+		<Unit filename="poli_quieto_derecha.png" />
+		<Unit filename="poli_quieto_izquierda.png" />
+		<Unit filename="powerup.wav" />
+		<Unit filename="quetzalcoatl_left.png" />
+		<Unit filename="quetzalcoatl_right.png" />
+		<Unit filename="quetzalcoatl_walking_left.png" />
+		<Unit filename="quetzalcoatl_walking_right.png" />
+		<Unit filename="reformaday.png" />
+		<Unit filename="reformadaypalotrolado.png" />
+		<Unit filename="reformanight.png" />
+		<Unit filename="reformanoon.png" />
+		<Unit filename="reformanoon2.png" />
+		<Unit filename="skeleton.png" />
+		<Unit filename="skeleton2.png" />
+		<Unit filename="taco_malo_caminado_derecha.png" />
+		<Unit filename="taco_malo_caminado_izquierda.png" />
+		<Unit filename="taco_malo_quieto.png" />
+		<Unit filename="tenochtitlan.png" />
+		<Unit filename="title.png" />
+		<Unit filename="vida.png" />
+		<Unit filename="walkingright1.png" />
+		<Unit filename="walkingright2.png" />
+		<Unit filename="writing.wav" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
